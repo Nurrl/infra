@@ -33,3 +33,6 @@ override.tf.json
 
 # The local k8s CA certificate
 ca.crt
+
+# The direnv config file
+.envrc
